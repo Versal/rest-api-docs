@@ -205,5 +205,5 @@ open a db session to the underlying database and a sbt scala console
 
 ```
 import com.versal.restapi.support
-support.virginUserAndPartnerKey(3, "Donald", "Trump", "trump@maga.org")
+support.virginUserAndPartnerKey(3, "Joe", "User", "juser@name.org")
 ```
